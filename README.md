@@ -11,4 +11,6 @@
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/arduino-00878F.svg?style=flat-square&logo=arduino&logoColor=white"/>
 </div>
