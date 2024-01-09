@@ -12,5 +12,5 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-squaret&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C#-512BD4.svg?style=flat-square&logo=csharp&logoColor=white"/>
   <img alt="C#"src="https://img.shields.io/badge/C#-512BD4.svg?style=flat-square&logo=C#&logoColor=white"/>
-  
+  <img alt="C#"src="https://img.shields.io/badge/csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white"/>
 </div>
